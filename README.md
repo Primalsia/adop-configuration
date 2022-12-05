@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory (on-premises) Deployed in the Cloud with Azure</h1>
-This Readme outlines the implementation of on-premises Active Directory within the Azure Virtual Machine. As I continue to redo the steps, I will add more to this documentation on what I implemented and experienced throughout the steps.<br/>
+This Readme outlines the implementation of on-premises Active Directory within the Azure Virtual Machine. As I continue to redo the steps, I will add more to this documentation on what I implemented and experienced.<br/>
 
 <h2>Environments and Technologies Used</h2>
 
